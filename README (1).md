@@ -2,7 +2,7 @@
 
 A simple command line app, written in Python, to track what you need to do, what you are working on, and what is done. Tasks are saved in a `tasks.json` file in the folder where you run it.
 
-Project from roadmap.sh: **PASTE THE PROJECT PAGE URL HERE**
+Project from roadmap.sh: https://roadmap.sh/projects/task-tracker
 
 ## Features
 
@@ -20,15 +20,13 @@ Project from roadmap.sh: **PASTE THE PROJECT PAGE URL HERE**
 
 Check your version with:
 ```bash
-python --version
+Python 3.11.9
 ```
-On some systems the command is `python3` instead of `python`.
-
 ## How to run
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/task-tracker.git
+   git clone https://github.com/Freddie376/task-tracker.git
    cd task-tracker
    ```
 2. Run the script with a command:
@@ -112,4 +110,4 @@ task-tracker/
 
 ## What I learned
 
-Write this part in your own words after you finish.
+Developing this project has helped me to learn how to type python commands, fix errors and also add new features.
